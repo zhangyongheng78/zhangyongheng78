@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing, and Casual Inference.
 - 🌱 I’m currently learning Reinforcement Learning.
 - 💞️ I’m looking to collaborate on different projects and research that related to Data Science.
-- 📫 How to reach me: zhangyongheng78@gmail.com.
+- 📫 How to reach me: zhangyongheng78@gmail.com. I am open to job opportunities!
 
 <!---
 zhangyongheng78/zhangyongheng78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
