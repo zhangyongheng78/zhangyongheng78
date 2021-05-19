@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yongheng Zhang @zhangyongheng78. I am pursuing a Master's degree in Data Science at Johns Hopkins University, and held a Bachelor's degree in Data Science and a minor in Mathematics at UC Irvine.
+- 👋 Hi, I’m Yongheng Zhang @zhangyongheng78. I am pursuing a Master's degree in Data Science at Johns Hopkins University, and hold a Bachelor's degree in Data Science and a minor in Mathematics at UC Irvine.
 - 👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing, and Casual Inference.
 - 🌱 I’m currently learning Reinforcement Learning.
 - 💞️ I’m looking to collaborate on different projects and research that related to Data Science.
