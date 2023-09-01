@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Yongheng Zhang @zhangyongheng78. I'm a Data Scientist at Nasdaq. I held a Master's degree in Data Science at Johns Hopkins University, and hold a Bachelor's degree in Data Science and a minor in Mathematics at UC Irvine;
-- 👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing, A/B Testing, and Casual Inference;
-- 🌱 I’m currently doing research relates to use Reinforcement Learning to define actions that reach patients' healthcare goals with Professor Thomas Woolf;
-- 💞️ I’m looking to collaborate on different projects and research that related to Data Science, product analysis, and advanced ML/DL/NLP/inference topics;
+- 👋 Hi, I’m Yongheng Zhang @zhangyongheng78. I'm a Data Scientist at Nasdaq.
+- 📖 I hold a Master's degree in Data Science from Johns Hopkins University, a Bachelor's degree in Data Science, and a minor in Mathematics from UC Irvine;
+- 👀 I’m interested in Machine Learning, Deep Learning, Natural Language Processing, A/B Testing, and Causal Inference;
+- 🌱 I’m currently doing research related to risk management, options, equities, and audits using ML/DL/NLP techniques
+- 💞️ I’m looking to collaborate on different projects and research related to Data Science, product analysis, and advanced ML/DL/RL/NLP/inference topics;
 - 📫 How to reach me: zhangyongheng78@gmail.com 
 
 <!---
